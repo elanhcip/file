@@ -1,0 +1,38 @@
+HCIP-openEuler Training
+   ●  openEuler Service Management
+           ■ Web Services
+           ■ Apache Overview and Configurations          apache  
+           ■ NGINX Overview and Configurations          nginx
+           ■ DNS Overview and Configurations            dns  
+           ■ MySQL Overview and Configurations          mysql
+           ■ LAMP/LNMP      lamp
+   ●  openEuler Cluster Architecture
+           ■ Cluster Overview      lvs
+           ■ Common Cluster Deployment Tools        reverseproxy
+           ■ Redis Overview                          haproxy
+   ●  openEuler Storage Management                    keepalived
+           ■ Basic Storage Concepts                basic            redis
+           ■ Storage Types      sharedstorage
+           ■ Introduction to Shared Storage      glusterfs
+           ■ Introduction to Distributed Storage    ansible
+   ●  Automation Management        Operations       of saltstack
+           ■ Introduction to Automated O&M     processcontrol 
+           ■ Introduction to Ansible       adduser
+           ■ Introduction to SaltStack    Common
+   ●  Advanced Shell Scripts            grep
+           ■ Conditional Judgment in Shell Scripts     sed
+           ■ Functions in Shell Scripts      awk
+           ■ Introduction to grep Commands      ossecurity
+           ■ Introduction to Regular Expressions  osnetwork 
+           ■ Introduction to sed    mandatory
+           ■ Introduction to AWK Statements   systemmonitoring   
+   ●  openEuler OS Security Hardening      zabbix
+           ■ OS Security Hardening     comprehensivepi
+           ■ OS Network Security   file
+           ■ SELinux Access Control     bashcript
+   ●  openEuler System Monitoring
+           ■ Commands for Checking openEuler Performance
+           ■ System Monitoring with Zabbix
+   ●  Comprehensive Practices
+           ■ Project Requirements
+           ■ Project Instructions
